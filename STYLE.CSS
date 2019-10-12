@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Helvetica neue', Arial, 'sans serif';
+    font-size: 10px;
+    background-color:#ccc;
+  }
+     
+       .card{
+        width: 35em;
+        height: 24em;
+        margin: 5em auto;
+        background-color: red;
+        border: 0.2em solid black;
+        border-radius: 1.5em;
+         
+       }
+       .header{
+        font-weight: bold;
+        height:70px;
+        font-stretch: ultra-expanded;
+      }
+       .card article img{
+            height: 124px;
+            width: 120px;
+            float: right;
+       }
+       .card article{
+          background-color: darkred;
+          height: 125px;
+          -webkit-text-fill-color: white;
+       }
+      .footer{
+        background-color: red;
+        font-size: 1.5em;
+        font-weight: bold;
+      }
+      
+     
+       
