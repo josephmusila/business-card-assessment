@@ -10,7 +10,7 @@ body {
      
        .card{
         width: 35em;
-        height: 24em;
+        height: 22em;
         margin: 5em auto;
         background-color: red;
         border: 0.2em solid black;
@@ -18,9 +18,10 @@ body {
          
        }
        .header{
-        font-weight: bold;
-        height:70px;
-        font-stretch: ultra-expanded;
+         height: 45px;
+        font-size:1.8em; 
+        font-weight: 600;
+        
       }
        .card article img{
             height: 124px;
@@ -28,7 +29,7 @@ body {
             float: right;
        }
        .card article{
-          background-color: darkred;
+          background-color:#da0f0f; 
           height: 125px;
           -webkit-text-fill-color: white;
        }
